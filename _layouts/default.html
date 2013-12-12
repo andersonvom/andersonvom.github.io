@@ -4,9 +4,8 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
 
     <title>{% if page.title %} {{page.title}} | {% endif %} andersonvom.github.io</title>
   </head>
@@ -14,8 +13,8 @@
   <body>
     <header>
       <div class="container">
-        <h1>Asdf</h1>
-        <h2>asdf</h2>
+        <h1><a href="/" rel="home">~andersonvom</a></h1>
+        <h2>:(){:|:&amp;};:</h2>
 
         <section id="downloads">
           <a href="https://github.com/andersonvom/asdf/zipball/master" class="btn">Download as .zip</a>
@@ -26,7 +25,9 @@
     </header>
 
     <div class="container">
-      {{ content }}
+      <section class="main_content">
+        {{ content }}
+      </section>
     </div>
   </body>
 </html>
