@@ -247,3 +247,10 @@ h1 a, h2 a, h3 a { color: #b5e853; }
 .cf {
   zoom:1;
 }
+
+span.more {
+  float: right;
+}
+span.more a {
+  text-decoration: none;
+}
