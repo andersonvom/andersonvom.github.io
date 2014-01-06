@@ -1,0 +1,25 @@
+/* ===== Bootstrap Changes ===== */
+
+body {
+  background: url("../images/bkg.png") 0 0;
+  color: #ddd;
+  font-size: 16px;
+}
+pre,code {
+  color: #2c3;
+  background-color: #333;
+}
+a, a:hover { color: #6cf; }
+
+
+/* ===== Blog Specific Changes ===== */
+
+header { border-bottom: 1px dashed #6cf; }
+.title:before { content: "~"; }
+.tagline {
+  margin-top: -10px;
+  margin-left: 20px;
+  color: #2c3;
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+.post_title { color: #6cf; }
