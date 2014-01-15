@@ -52,3 +52,16 @@ it on your network:
 
 If everything worked, you should be able to connect to your shared
 folder using the user `pi` and the password you typed before.
+
+It's worth mentioning that, while you may be able to share your hard
+drive's contents plugging it directly into the RPi, it will most likely
+die from time to time - or even fail to mount completely - if you're
+using it for other processing intensive things (e.g. using [xbmc][],
+running a web server, etc).  You'll benefit a lot from buying a [USB
+hub][usb-hub] and plugging your hard drive and you RPi in it!
+
+
+[xbmc]: http://xbmc.org/
+  "Visit XBMC web site"
+[usb-hub]: http://www.amazon.com/gp/product/B003Z4G3I6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003Z4G3I6&linkCode=as2&tag=andersonvom-20
+  "Plugable 7 Port High Speed USB 2.0 Hub with 3A Power Adapter"
