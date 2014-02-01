@@ -1,4 +1,4 @@
-/* ===== Bootstrap Changes ===== */
+/* ===== Global Changes ===== */
 
 body {
   background: url("../images/bkg.png") 0 0;
@@ -12,14 +12,17 @@ pre,code {
 a, a:hover { color: #6cf; }
 
 
-/* ===== Blog Specific Changes ===== */
+/* ===== Specific Changes ===== */
 
-header { border-bottom: 1px dashed #6cf; }
 .title:before { content: "~"; }
+.title { margin-top: 0; margin-bottom: 0; }
 .tagline {
-  margin-top: -10px;
-  margin-left: 20px;
   color: #2c3;
+  margin-left: 25px;
+  font-size: 15px;
   font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
 }
+.navbar-brand { padding-top: 5px; padding-bottom: 0; }
+header nav { margin-top: 15px; }
+
 .post_title { color: #6cf; }
