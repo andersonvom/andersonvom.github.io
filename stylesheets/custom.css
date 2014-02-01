@@ -38,5 +38,9 @@ footer {
 }
 .navbar-brand { padding-top: 5px; padding-bottom: 0; }
 header nav { margin-top: 15px; }
+.panel-footer {
+  background-color: rgb(34, 34, 34);
+  border-color: rgb(8, 8, 8);
+}
 
 .post_title { color: #6cf; }
