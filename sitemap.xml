@@ -1,0 +1,26 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for post in site.posts %}
+  <url>
+    <loc>http://{{site.domain}}{{ post.url | remove: 'index.html' }}</loc>
+    <lastmod>{% if post.last_update %}{{post.last_update}}{% else %}{{post.date}}{% endif %}</lastmod>
+    <changefreq>monthly</changefreq>
+  </url>
+  {% endfor %}
+
+  {% for page in site.pages %}
+  {% if page.layout != nil %}
+  {% if page.layout != 'feed' %}
+  <url>
+    <loc>http://andersonvom.github.io{{ page.url | remove: 'index.html' }}</loc>
+    {% if page.last_update != nil %}
+    <lastmod>{{page.last_update}}</lastmod>
+    {% endif %}
+    <changefreq>monthly</changefreq>
+  </url>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+</urlset>
