@@ -5,7 +5,12 @@
   {% for post in site.posts %}
   <url>
     <loc>http://{{site.domain}}{{ post.url | remove: 'index.html' }}</loc>
-    <lastmod>{% if post.last_update %}{{post.last_update}}{% else %}{{post.date}}{% endif %}</lastmod>
+    <lastmod>
+      {% if post.last_update %}
+        {{post.last_update | date_to_xmlschema}}
+      {% else %}
+        {{post.date | date_to_xmlschema}}
+      {% endif %}</lastmod>
     <changefreq>monthly</changefreq>
   </url>
   {% endfor %}
@@ -16,7 +21,7 @@
   <url>
     <loc>http://andersonvom.github.io{{ page.url | remove: 'index.html' }}</loc>
     {% if page.last_update != nil %}
-    <lastmod>{{page.last_update}}</lastmod>
+    <lastmod>{{page.last_update | date_to_xmlschema}}</lastmod>
     {% endif %}
     <changefreq>monthly</changefreq>
   </url>
