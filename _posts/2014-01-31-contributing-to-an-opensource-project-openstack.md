@@ -12,7 +12,7 @@ project had been in my checklist of things to do as a developer and it's
 been a great pleasure to be able to give it back to the community as my
 full-time job and fulfill my desire.
 
-#### The Project
+### The Project
 
 OpenStack is an infrastructure as a service cloud computing platform.
 It aims to provide all resources needed to run a cloud service:
@@ -33,7 +33,7 @@ more webservers, just edit the template to reflect the new count and
 update your application!
 
 
-#### Members
+### Members
 
 There are over 200 companies involved in OpenStack (Red Hat, IBM, HP,
 and Rackspace to name a few), 17 of which have contributed to Heat, plus
@@ -43,7 +43,7 @@ submitting new code), and they are scattered around several different
 countries and timezones.
 
 
-#### Day-to-Day
+### Day-to-Day
 
 Most of our interaction takes place on IRC and you can always find folks
 hanging out on Freenode's [#heat][heat-irc]. Come by and drop us a line!
@@ -60,7 +60,7 @@ at once, or the subject is too complex to be solved in quick (and
 sometimes even really long) chats.
 
 
-#### Meetings
+### Meetings
 
 It's not because it's an opensource project and most interaction happens
 on the internet that we do not have meetings.  You can't scape them!
@@ -79,7 +79,7 @@ that is present in every meeting: an eavesdrop IRC bot called
 meetings on IRC.
 
 
-#### Code
+### Code
 
 The code is all written in Python.  We use [Launchpad][] to track bugs
 and blueprints (specification and implementation of new features).  This
@@ -118,7 +118,7 @@ too much work on core members, or just plain disagreements can be
 frustating at times.
 
 
-#### Overall
+### Overall
 
 All in all, working in an opensource project has been a great
 professional experience and it feels amazing to be able to spend my full
