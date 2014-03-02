@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contributing to an Open Source Project: OpenStack
+title: Contributing to an Open Source Project&#58; OpenStack
 ---
 
 I've been working on [OpenStack][] for a little over three months now
