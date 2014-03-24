@@ -1,0 +1,21 @@
+<script type="text/javascript">
+  var timeline = document.querySelector("#timeline");
+  var image_map = {
+    count: 0,
+    0: '/images/posts/full_timeline.svg',
+    1: '/images/posts/existing_timeline.svg'
+  };
+
+  var switch_timelines = function() {
+    image_map.count++;
+    timeline.setAttribute('src', image_map[image_map.count % 2]);
+  };
+
+  var setup = function() {
+    timeline.addEventListener("click", switch_timelines);
+    timeline.addEventListener(this.eventTouchend, switch_timelines);
+    timeline.style.cursor = 'pointer';
+  }
+
+  setup();
+</script>
