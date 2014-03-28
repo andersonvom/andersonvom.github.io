@@ -20,10 +20,10 @@ photographing, riding my bike around, ballroom dancing, enjoying good
 beer with my friends, playing guitar, or doing something completely
 random.
 
-If you want to **contact me**, just prove that you're not a robot (I tend
-not to trust them a whole lot) and find out what my email address is by
-following this tip:
-[YW5kZXJzb252b20gKiBnbWFpbAo=][base64].
+If you want to **contact me**, just prove that you're not a robot (I
+tend not to trust them a whole lot) and find out what my email address
+is by following this tip: [YW5kZXJzb252b20gKiBnbWFpbAo=][base64].
+Alternatively, you can also take a look at my [resume][].
 
 [linkedin]: http://linkedin.com/andersonmesquita
   "Take a look at my linked in profile"
@@ -43,3 +43,5 @@ following this tip:
   "Visit the Federal University of Ceará website"
 [base64]: https://duckduckgo.com/?q=base64+decode
   "Find out how to get my email address"
+[resume]: /files/2014.03-Anderson.Mesquita-resume-eng.pdf
+  "Anderson Mesquita's current-ish resume"
