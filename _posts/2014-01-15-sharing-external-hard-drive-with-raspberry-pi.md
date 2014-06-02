@@ -63,5 +63,5 @@ hub][usb-hub] and plugging your hard drive and you RPi in it!
 
 [xbmc]: http://xbmc.org/
   "Visit XBMC web site"
-[usb-hub]: http://www.amazon.com/gp/product/B003Z4G3I6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003Z4G3I6&linkCode=as2&tag=andersonvom-20
+[usb-hub]: http://smile.amazon.com/gp/product/B003Z4G3I6/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B003Z4G3I6&linkCode=as2&tag=andersonvom-20
   "Plugable 7 Port High Speed USB 2.0 Hub with 3A Power Adapter"

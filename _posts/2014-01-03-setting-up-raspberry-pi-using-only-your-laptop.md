@@ -45,5 +45,5 @@ SSH or VNC.
   "Download the latest version of Raspbian"
 [wheezy-torrent]: /files/2013-12-20-wheezy-raspbian.zip.torrent
   "Download Wheezy for Raspberry Pi via torrent"
-[buy-rasp-pi]: http://www.amazon.com/gp/product/B009SQQF9C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SQQF9C&linkCode=as2&tag=andersonvom-20
+[buy-rasp-pi]: http://smile.amazon.com/gp/product/B009SQQF9C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SQQF9C&linkCode=as2&tag=andersonvom-20
   "Buy a Raspberry Pi on Amazon.com"
