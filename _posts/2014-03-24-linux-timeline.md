@@ -23,9 +23,16 @@ May all 133 of them rest in peace. =(
      class="img-responsive"
      id="timeline" />
 
-<!-- This image will speed up the switching proccess -->
-<img src="/images/posts/existing_timeline.svg" alt="cached_timeline" style="display: none;" />
+<script type="text/javascript">
+var switchTimelines = function() {
+  var isFull = $('#timeline').attr('src').indexOf('full');
+  var next = isFull >= 0 ? 'existing' : 'full';
+  $('#timeline').attr('src', '/images/posts/' + next + '_timeline.svg');
+};
 
+var timeline = document.querySelector("#timeline");
+timeline.addEventListener("click", switchTimelines);
+timeline.addEventListener(this.eventTouchend, switchTimelines);
+</script>
 
 [original]: http://futurist.se/gldt/wp-content/uploads/12.10/gldt1210.svg
-{% include 2014-03-24-linux-timeline.html %}
