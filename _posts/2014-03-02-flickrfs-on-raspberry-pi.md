@@ -60,7 +60,7 @@ And you're done! \o/
 
 [flickrfs]: https://sites.google.com/site/manishrjain/flickrfs
   "Visit flickrfs project website"
-[rpi]: http://smile.amazon.com/gp/product/B009SQQF9C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SQQF9C&linkCode=as2&tag=andersonvom-20
+[rpi]: http://smile.amazon.com/gp/product/B009SQQF9C/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B009SQQF9C&linkCode=as2&tag=andersonvom--20
   "Get yourself a Raspberry Pi"
 [flickr]: http://flickr.com/
   "Visit Flickr website"

@@ -80,7 +80,7 @@ to repeat it._ (George Santayana)
   "Writing good commit messages - Erlang/OTP"
 [commit messages]: http://who-t.blogspot.com/2009/12/on-commit-messages.html
   "On Commit Messages - Who-T"
-[free software]: http://www.amazon.com/gp/product/0983159203/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983159203&linkCode=as2&tag=andersonvom-20&linkId=OMF7PZKZ7S6RORDC
+[free software]: http://www.amazon.com/gp/product/0983159203/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0983159203&linkCode=as2&tag=andersonvom--20&linkId=OMF7PZKZ7S6RORDC
   "Free Software Free Society - Richard Stallman"
 [wtfsm]: http://www.osnews.com/story/19266
   "WTFs/m - OSnews"
