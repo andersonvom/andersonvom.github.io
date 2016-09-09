@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/andersonvom
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://andersonvom.tk
+  * I am andersonvom (https://keybase.io/andersonvom) on keybase.
+  * I have a public key ASAqerC--v3FKqCzQSi19OMHm2Ova29u04A9ClEfLf6bjgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01202a7ab0befafdc52aa0b34128b5f4e3079b63af6b6f6ed3803d0a511f2dfe9b8e0a",
+            "host": "keybase.io",
+            "kid": "01202a7ab0befafdc52aa0b34128b5f4e3079b63af6b6f6ed3803d0a511f2dfe9b8e0a",
+            "uid": "cc0565d80e09dfb823e7519cca3fd719",
+            "username": "andersonvom"
+        },
+        "service": {
+            "hostname": "andersonvom.tk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473439965,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473439910,
+        "hash": "8733734fcbe4edaaaca6af6f6c4bdfcb62d68c1e8149a33aedd65e9d37de7ccb4283cff64c41081e3794befa5c04df4492eb717acf62bb9b6a10196f731566bd",
+        "seqno": 627274
+    },
+    "prev": "54e9cf2ced21139331f1062bddd14c14b9d847c689dbd56a3b55d98f0fb624a5",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKnqwvvr9xSqgs0EotfTjB5tjr2tvbtOAPQpRHy3+m44Kp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMmE3YWIwYmVmYWZkYzUyYWEwYjM0MTI4YjVmNGUzMDc5YjYzYWY2YjZmNmVkMzgwM2QwYTUxMWYyZGZlOWI4ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmE3YWIwYmVmYWZkYzUyYWEwYjM0MTI4YjVmNGUzMDc5YjYzYWY2YjZmNmVkMzgwM2QwYTUxMWYyZGZlOWI4ZTBhIiwidWlkIjoiY2MwNTY1ZDgwZTA5ZGZiODIzZTc1MTljY2EzZmQ3MTkiLCJ1c2VybmFtZSI6ImFuZGVyc29udm9tIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJhbmRlcnNvbnZvbS50ayIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTcifSwiY3RpbWUiOjE0NzM0Mzk5NjUsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MzQzOTkxMCwiaGFzaCI6Ijg3MzM3MzRmY2JlNGVkYWFhY2E2YWY2ZjZjNGJkZmNiNjJkNjhjMWU4MTQ5YTMzYWVkZDY1ZTlkMzdkZTdjY2I0MjgzY2ZmNjRjNDEwODFlMzc5NGJlZmE1YzA0ZGY0NDkyZWI3MTdhY2Y2MmJiOWI2YTEwMTk2ZjczMTU2NmJkIiwic2Vxbm8iOjYyNzI3NH0sInByZXYiOiI1NGU5Y2YyY2VkMjExMzkzMzFmMTA2MmJkZGQxNGMxNGI5ZDg0N2M2ODlkYmQ1NmEzYjU1ZDk4ZjBmYjYyNGE1Iiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMTPn+Y3hTCr56r+k1G+ouA2NE5QE+vqTcGxpMt4S5MzojgaC7YqHwgBcIgpNt2NNgSly+SLv+Q8+OtSfP1uWQ6oc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCD/GmSOKtfiOvLIyDEklVv8q+hs+VRfrbXUv17nMoj8IqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andersonvom
+
+==================================================================
